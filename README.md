@@ -12,7 +12,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 
 ### Technologies
 
