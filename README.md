@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EE8B5&width=435&lines=Hi%2C+I'm+Jason+Barrientos;Aspiring+Web+Developer+%7C+Web+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=2EE8B5&width=660&height=80&lines=Hi%2C+I'm+Jason+Barrientos;Aspiring+Web+Developer+%7C+Web+Designer" alt="Typing SVG" /></a>
 
 > I'm Jason — an IT student who fell in love with the craft of building for the web. My journey started with curiosity: tweaking code, breaking things, and figuring out why.
 
