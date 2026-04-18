@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=5px&pause=1000&color=2EE8B5&width=435&lines=Hi%2C+I'm+Jason+Barrientos" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EE8B5&width=435&lines=Hi%2C+I'm+Jason+Barrientos;Aspiring+Web+Developer+%7C+Web+Designer" alt="Typing SVG" /></a>
 
 > I'm Jason — an IT student who fell in love with the craft of building for the web. My journey started with curiosity: tweaking code, breaking things, and figuring out why.
 
@@ -23,7 +23,7 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-💼%20My%20Website-000)](https://jason-dev.vercel.app)
+[![](https://img.shields.io/badge/-💼%20My%20Portfolio-000)](https://jason-dev.vercel.app)
 [![](https://img.shields.io/badge/-🏆%20Tournament%20Bracketing-000)](https://github.com/kido-ai)
 [![](https://img.shields.io/badge/-👩🏻‍💻%20Mini%20Dashboard-000)](https://github.com/kido-ai)
 [![](https://img.shields.io/badge/-🔐%20PHP%20Obf-000)](https://github.com/kido-ai)
