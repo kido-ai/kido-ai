@@ -31,6 +31,6 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kido-ai&show_icons=true&title_color=000000&icon_color=2EE8B5&text_color=daf7ed&bg_color=2EE8B5" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kido-ai&show_icons=true&title_color=000000&icon_color=0d0e0f&text_color=2e2f30&bg_color=2EE8B5" alt="GitHub Stats"/>
 
 ---
