@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=5px&pause=1000&color=2EE8B5&width=435&lines=Hi%2C+I'm+Jason+Barrientos" alt="Typing SVG" /></a>
 
+> I'm Jason — an IT student who fell in love with the craft of building for the web. My journey started with curiosity: tweaking code, breaking things, and figuring out why.
+
 ![GitHub followers](https://img.shields.io/github/followers/kido-ai?label=Followers&style=for-the-badge&logo=github)
 ![Profile views](https://komarev.com/ghpvc/?username=kido-ai&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
