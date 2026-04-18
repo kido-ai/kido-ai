@@ -7,7 +7,7 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -16,7 +16,7 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 ### Full Stack Projects
@@ -27,9 +27,10 @@
 [![](https://img.shields.io/badge/-🔐%20PHP%20Obf-000)](https://github.com/kido-ai)
 [![](https://img.shields.io/badge/-📜%20Motivational%20Quotes-000)](https://github.com/kido-ai)
 
+---
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kido-ai&show_icons=true&title_color=ffffff&icon_color=2EE8B5&text_color=daf7dc&bg_color=151515" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kido-ai&show_icons=true&title_color=000000&icon_color=2EE8B5&text_color=daf7ed&bg_color=2EE8B5" alt="GitHub Stats"/>
 
 ---
